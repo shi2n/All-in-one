@@ -1,3 +1,18 @@
+╔══════════════════════════════════════════════════════════════╗
+    ║                                                              ║
+    ║    █████╗ ██╗     ███████╗    ██╗ ██████╗ ███╗   ██╗███████╗ ║
+    ║   ██╔══██╗██║     ██╔════╝    ██║██╔═══██╗████╗  ██║██╔════╝ ║
+    ║   ███████║██║     █████╗      ██║██║   ██║██╔██╗ ██║█████╗   ║
+    ║   ██╔══██║██║     ██╔══╝      ██║██║   ██║██║╚██╗██║██╔══╝   ║
+    ║   ██║  ██║███████╗███████╗    ██║╚██████╔╝██║ ╚████║███████╗ ║
+    ║   ╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ║
+    ║                                                              ║
+    ║                 CYBERSECURITY RECON TOOL                     ║
+    ║                                                              ║
+    ║  Created by: Shaizan Siddiqui (GitHub: shi2n)                ║
+    ╚══════════════════════════════════════════════════════════════╝
+#pip install termcolor requests
+
 # Run basic reconnaissance
 python all_in_one.py -t example.com --recon
 
@@ -15,3 +30,10 @@ python all_in_one.py --education
 
 # Use AI assistant
 python all_in_one.py -t example.com --ai-assistant
+
+# DO THIS BEORE DOING SCAN
+#chmod +x Allone.py
+
+
+
+
